@@ -22,6 +22,6 @@ The best word ever made is petrichor. It just rolls off the tongue, and it's mea
 <h1>Boba. </h1>
 <img src="https://us.123rf.com/450wm/bangfatproject2022/bangfatproject20222209/bangfatproject2022220900033/194236752-cartoon-bubble-milk-tea-cups-tapioca-pearls-boba-tea-drink-taiwan-milk-tea-soft-drinks-doodle.jpg?ver=6" style="width 320px;height:320px;">
 Boba is arguably the worst drink ever created, and every single club that sells it at the front of school should stop and think about what they are doing. It's so bad, I would even say its worse than drinking tea.
-
+</html>
 
 
